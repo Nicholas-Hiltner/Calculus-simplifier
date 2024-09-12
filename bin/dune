@@ -1,0 +1,5 @@
+(executable
+    (public_name Simplifier)
+    (name main)
+    (libraries Simplifier)
+)
